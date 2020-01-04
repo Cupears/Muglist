@@ -50,7 +50,7 @@
 	},
 	{
 		"abr": "aflashgrenade.temporarilystunsorganicenemiesallowinguserstoclosethedistance.",
-		"price": -10,
+		"price": 4,
 		"category": "Grenades",
 		"defname": "VWE_FlashGrenade"
 	},
@@ -356,7 +356,7 @@
 	},
 	{
 		"abr": "ammocrate",
-		"price": -10,
+		"price": 533,
 		"category": "Furniture",
 		"defname": "VFES_AmmoCrate"
 	},
@@ -425,6 +425,12 @@
 		"price": 136,
 		"category": "Furniture",
 		"defname": "AnimalBed"
+	},
+	{
+		"abr": "animalfeeder",
+		"price": 87,
+		"category": "Furniture",
+		"defname": "VFE_AnimalFeeder"
 	},
 	{
 		"abr": "animalprostheticstable",
@@ -5156,7 +5162,7 @@
 	},
 	{
 		"abr": "human",
-		"price": -10,
+		"price": 2917,
 		"category": "Animal",
 		"defname": "Human"
 	},
@@ -5168,7 +5174,7 @@
 	},
 	{
 		"abr": "humanmeat",
-		"price": 500,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Human"
 	},
@@ -5984,7 +5990,7 @@
 	},
 	{
 		"abr": "loadingbench",
-		"price": -10,
+		"price": 775,
 		"category": "Production",
 		"defname": "AmmoBench"
 	},
@@ -9145,6 +9151,12 @@
 		"defname": "RNGun_SCARMk20ContractorDMR"
 	},
 	{
+		"abr": "scarecrow",
+		"price": 129,
+		"category": "Misc",
+		"defname": "VFE_Scarecrow"
+	},
+	{
 		"abr": "scar-h",
 		"price": 775,
 		"category": "Ranged weapons",
@@ -9869,6 +9881,12 @@
 		"price": 3250,
 		"category": "Animal",
 		"defname": "ACPSpiritwolfFF"
+	},
+	{
+		"abr": "sprinkler",
+		"price": 182,
+		"category": "Misc",
+		"defname": "VFE_Sprinkler"
 	},
 	{
 		"abr": "squarechair",
@@ -11411,25 +11429,7 @@
 		"price": 1667,
 		"category": "Items",
 		"defname": "ZygolophodonTusk"
-	},
-	{
-		"abr": "animalfeeder",
-		"price": 87,
-		"category": "Furniture",
-		"defname": "VFE_AnimalFeeder"
-	},
-	{
-		"abr": "scarecrow",
-		"price": 129,
-		"category": "Misc",
-		"defname": "VFE_Scarecrow"
-	},
-	{
-		"abr": "sprinkler",
-		"price": 182,
-		"category": "Misc",
-		"defname": "VFE_Sprinkler"
-	},
+	}
 	],
-	"total": 2037
+	"total": 1905
 }
