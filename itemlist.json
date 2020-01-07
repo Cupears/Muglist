@@ -50,7 +50,7 @@
 	},
 	{
 		"abr": "aflashgrenade.temporarilystunsorganicenemiesallowinguserstoclosethedistance.",
-		"price": 4,
+		"price": -4,
 		"category": "Grenades",
 		"defname": "VWE_FlashGrenade"
 	},
