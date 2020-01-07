@@ -356,7 +356,7 @@
 	},
 	{
 		"abr": "ammocrate",
-		"price": -10,
+		"price": 533,
 		"category": "Furniture",
 		"defname": "VFES_AmmoCrate"
 	},
@@ -2396,7 +2396,7 @@
 	},
 	{
 		"abr": "compoundbow",
-		"price": -10,
+		"price": 240,
 		"category": "Ranged weapons",
 		"defname": "VWE_Bow_Compound"
 	},
@@ -2636,7 +2636,7 @@
 	},
 	{
 		"abr": "crocodilemeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Crocodile"
 	},
@@ -3206,7 +3206,7 @@
 	},
 	{
 		"abr": "dragunovsvd",
-		"price": -10,
+		"price": 425,
 		"category": "DMR",
 		"defname": "RNGun_DragunovDMR"
 	},
@@ -3302,7 +3302,7 @@
 	},
 	{
 		"abr": "duck",
-		"price": -10,
+		"price": 100,
 		"category": "Animal",
 		"defname": "AEXP_Duck"
 	},
@@ -4502,7 +4502,7 @@
 	},
 	{
 		"abr": "giraffe",
-		"price": -10,
+		"price": 1083,
 		"category": "Animal",
 		"defname": "AEXP_Giraffe"
 	},
@@ -4862,7 +4862,7 @@
 	},
 	{
 		"abr": "hawkstrideregg(fert.)",
-		"price": -10,
+		"price": 125,
 		"category": "Eggs (fert.)",
 		"defname": "EggWoWVoidstriderFertilized"
 	},
@@ -4880,7 +4880,7 @@
 	},
 	{
 		"abr": "hawkstridermeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_WoWVoidstrider"
 	},
@@ -5054,19 +5054,19 @@
 	},
 	{
 		"abr": "horsemeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_WoWEpicForsakenhorse"
 	},
 	{
 		"abr": "horsemeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_WoWHorse"
 	},
 	{
 		"abr": "horsemeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_WoWKodo"
 	},
@@ -5078,19 +5078,19 @@
 	},
 	{
 		"abr": "horsemeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Zebra"
 	},
 	{
 		"abr": "horsemeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Horse"
 	},
 	{
 		"abr": "horsemeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Donkey"
 	},
@@ -5882,13 +5882,13 @@
 	},
 	{
 		"abr": "lionmeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Alien_Lion"
 	},
 	{
 		"abr": "lionmeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_ACPLion"
 	},
@@ -7280,13 +7280,13 @@
 	},
 	{
 		"abr": "nightsabermeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_WoWFrostsaber"
 	},
 	{
 		"abr": "nightsabermeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_WoWManasaber"
 	},
@@ -7340,7 +7340,7 @@
 	},
 	{
 		"abr": "ocularjellymeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_OcularJelly"
 	},
@@ -7568,7 +7568,7 @@
 	},
 	{
 		"abr": "ottermeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Otter"
 	},
@@ -8030,7 +8030,7 @@
 	},
 	{
 		"abr": "porcupine",
-		"price": -10,
+		"price": 200,
 		"category": "Animal",
 		"defname": "ACPPorcupine"
 	},
@@ -9818,7 +9818,7 @@
 	},
 	{
 		"abr": "spiritwolf",
-		"price": -10,
+		"price": 3250,
 		"category": "Animal",
 		"defname": "ACPSpiritwolf"
 	},
@@ -10400,7 +10400,7 @@
 	},
 	{
 		"abr": "tigermeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_ACPTiger"
 	},
@@ -10874,7 +10874,7 @@
 	},
 	{
 		"abr": "wa2000",
-		"price": -10,
+		"price": 425,
 		"category": "DMR",
 		"defname": "RNGun_WA2000DMR"
 	},
@@ -11363,7 +11363,7 @@
 		"price": 1667,
 		"category": "Items",
 		"defname": "ZygolophodonTusk"
-	},
+	}
 	],
-	"total": 1905
+	"total": 1894
 }
