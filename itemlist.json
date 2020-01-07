@@ -49,8 +49,8 @@
 		"defname": "Turret_Flak"
 	},
 	{
-		"abr": "aflashgrenade.temporarilystunsorganicenemiesallowinguserstoclosethedistance.",
-		"price": 10,
+		"abr": "flashgrenade",
+		"price": 4,
 		"category": "Grenades",
 		"defname": "VWE_FlashGrenade"
 	},
