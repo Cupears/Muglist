@@ -7268,7 +7268,7 @@
 	},
 	{
 		"abr": "sculptor'stable",
-		"price": 265,
+		"price": 425,
 		"category": "Production",
 		"defname": "TableSculpting"
 	},
@@ -7550,7 +7550,7 @@
 	},
 	{
 		"abr": "simpleresearchbench",
-		"price": 267,
+		"price": 350,
 		"category": "Production",
 		"defname": "SimpleResearchBench"
 	},
@@ -7916,7 +7916,7 @@
 	},
 	{
 		"abr": "stonecutter'stable",
-		"price": 262,
+		"price": 358,
 		"category": "Production",
 		"defname": "TableStonecutter"
 	},
@@ -9023,7 +9023,7 @@
 		"price": 1667,
 		"category": "Items",
 		"defname": "ZygolophodonTusk"
-	},
+	}
 	],
-	"total": 1832
+	"total": 1504
 }
