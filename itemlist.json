@@ -331,6 +331,12 @@
 		"defname": "Meat_Ankylosaurus"
 	},
 	{
+		"abr": "antisick",
+		"price": 1667,
+		"category": "Drugs",
+		"defname": "Antisick"
+	},
+	{
 		"abr": "arcademachine",
 		"price": 650,
 		"category": "Recreation",
@@ -359,6 +365,12 @@
 		"price": 4667,
 		"category": "Artificial",
 		"defname": "ArchotechLeg"
+	},
+	{
+		"abr": "archotechsculpture",
+		"price": 5000,
+		"category": "Art",
+		"defname": "VFE_ArchotechSculpture"
 	},
 	{
 		"abr": "archotechshieldgenerator",
@@ -709,6 +721,12 @@
 		"defname": "Meat_AEXP_Beagle"
 	},
 	{
+		"abr": "beamers",
+		"price": 250,
+		"category": "Drugs",
+		"defname": "Beamers"
+	},
+	{
 		"abr": "bearman",
 		"price": 1667,
 		"category": "Animal",
@@ -947,6 +965,12 @@
 		"price": 1667,
 		"category": "Artificial",
 		"defname": "BionicAvaliTail"
+	},
+	{
+		"abr": "bionicbeak",
+		"price": 1717,
+		"category": "Artificial",
+		"defname": "BionicBeak"
 	},
 	{
 		"abr": "bionicear",
@@ -1201,6 +1225,12 @@
 		"defname": "VCEF_BloodLeech"
 	},
 	{
+		"abr": "blotter",
+		"price": 558,
+		"category": "Drugs",
+		"defname": "Blotter"
+	},
+	{
 		"abr": "blubberymeat",
 		"price": 3,
 		"category": "Meat",
@@ -1247,6 +1277,18 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Boomalope"
+	},
+	{
+		"abr": "boombat",
+		"price": 250,
+		"category": "Animal",
+		"defname": "AEXP_Boombat"
+	},
+	{
+		"abr": "boombatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_Boombat"
 	},
 	{
 		"abr": "boomrat",
@@ -1483,6 +1525,12 @@
 		"defname": "Meat_Carnotaurus"
 	},
 	{
+		"abr": "carving",
+		"price": 342,
+		"category": "Art",
+		"defname": "VFE_Carving"
+	},
+	{
 		"abr": "cassowary",
 		"price": 333,
 		"category": "Animal",
@@ -1493,6 +1541,12 @@
 		"price": 32,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized"
+	},
+	{
+		"abr": "cassowaryman",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Alien_Cassowary"
 	},
 	{
 		"abr": "castoroides",
@@ -1703,6 +1757,12 @@
 		"price": 12,
 		"category": "Eggs (unfert.)",
 		"defname": "EggChickenUnfertilized"
+	},
+	{
+		"abr": "chickenman",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Alien_Chicken"
 	},
 	{
 		"abr": "chickenmeat",
@@ -2323,6 +2383,12 @@
 		"defname": "AA_DisgustingMealNutrientPaste"
 	},
 	{
+		"abr": "dodoman",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Alien_Dodo"
+	},
+	{
 		"abr": "doedicurus",
 		"price": 1833,
 		"category": "Animal",
@@ -2863,6 +2929,12 @@
 		"defname": "VFE_FabricationCabinet"
 	},
 	{
+		"abr": "femaleroyalthrumbohorn",
+		"price": 2667,
+		"category": "Items",
+		"defname": "OG_ThrumboRoyalHornF"
+	},
+	{
 		"abr": "fennecfox",
 		"price": 333,
 		"category": "Animal",
@@ -2909,6 +2981,24 @@
 		"price": 15,
 		"category": "Eggs (unfert.)",
 		"defname": "AA_FeraliskEggUnfertilized"
+	},
+	{
+		"abr": "ferian",
+		"price": 3667,
+		"category": "Animal",
+		"defname": "AFerian"
+	},
+	{
+		"abr": "ferianleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "Leather_Ferian"
+	},
+	{
+		"abr": "ferianmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AFerian"
 	},
 	{
 		"abr": "fermentingbarrel",
@@ -3161,6 +3251,36 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Alien_Frijjid"
+	},
+	{
+		"abr": "frog",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "Alien_Frog"
+	},
+	{
+		"abr": "frogleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_frog"
+	},
+	{
+		"abr": "frogmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alien_Frog"
+	},
+	{
+		"abr": "frogleafjoint",
+		"price": 18,
+		"category": "Drugs",
+		"defname": "FrogleafJoint"
+	},
+	{
+		"abr": "frogleafleaves",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "FrogleafLeaves"
 	},
 	{
 		"abr": "frostave",
@@ -3487,6 +3607,12 @@
 		"defname": "Meat_AEXP_Goat"
 	},
 	{
+		"abr": "godsblood",
+		"price": 867,
+		"category": "Drugs",
+		"defname": "GodsBlood"
+	},
+	{
 		"abr": "go-juice",
 		"price": 88,
 		"category": "Drugs",
@@ -3535,10 +3661,22 @@
 		"defname": "AEXP_Gorilla"
 	},
 	{
+		"abr": "grandrug",
+		"price": 883,
+		"category": "Art",
+		"defname": "VFE_RugGrand"
+	},
+	{
 		"abr": "grandsculpture",
 		"price": 1125,
 		"category": "Art",
 		"defname": "SculptureGrand"
+	},
+	{
+		"abr": "grandstatue",
+		"price": 1125,
+		"category": "Art",
+		"defname": "VFE_StatueGrand"
 	},
 	{
 		"abr": "graniteblocks",
@@ -3791,6 +3929,12 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Hippopotamus"
+	},
+	{
+		"abr": "hologram",
+		"price": 542,
+		"category": "Art",
+		"defname": "VFE_HologramOn"
 	},
 	{
 		"abr": "honeybadger",
@@ -4237,10 +4381,22 @@
 		"defname": "RawJuniper"
 	},
 	{
+		"abr": "kangaroo",
+		"price": 417,
+		"category": "Animal",
+		"defname": "AEXP_Kangaroo"
+	},
+	{
 		"abr": "kangaroomeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Procoptodon"
+	},
+	{
+		"abr": "kangaroomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_Kangaroo"
 	},
 	{
 		"abr": "kibble",
@@ -4253,6 +4409,18 @@
 		"price": 417,
 		"category": "Natural",
 		"defname": "Kidney"
+	},
+	{
+		"abr": "kija",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "Alien_Kija"
+	},
+	{
+		"abr": "kijameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alien_Kija"
 	},
 	{
 		"abr": "kitchensinkcabinet",
@@ -4283,6 +4451,18 @@
 		"price": 1850,
 		"category": "Ranged weapons",
 		"defname": "CEC_LWAMG"
+	},
+	{
+		"abr": "koala",
+		"price": 125,
+		"category": "Animal",
+		"defname": "AEXP_Koala"
+	},
+	{
+		"abr": "koalameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_Koala"
 	},
 	{
 		"abr": "komododragon",
@@ -4351,10 +4531,22 @@
 		"defname": "Bin_Large"
 	},
 	{
+		"abr": "largerug",
+		"price": 492,
+		"category": "Art",
+		"defname": "VFE_RugLarge"
+	},
+	{
 		"abr": "largesculpture",
 		"price": 517,
 		"category": "Art",
 		"defname": "SculptureLarge"
+	},
+	{
+		"abr": "largestatue",
+		"price": 583,
+		"category": "Art",
+		"defname": "VFE_StatueLarge"
 	},
 	{
 		"abr": "lavishmeal",
@@ -4687,6 +4879,12 @@
 		"defname": "ACPMajoreraGoat"
 	},
 	{
+		"abr": "maleroyalthrumbohorn",
+		"price": 2667,
+		"category": "Items",
+		"defname": "OG_ThrumboRoyalHornM"
+	},
+	{
 		"abr": "mammothtusk",
 		"price": 1167,
 		"category": "Items",
@@ -4987,6 +5185,12 @@
 		"defname": "Meat_Monkey"
 	},
 	{
+		"abr": "monument",
+		"price": 2100,
+		"category": "Art",
+		"defname": "VFE_Monument"
+	},
+	{
 		"abr": "moose",
 		"price": 750,
 		"category": "Animal",
@@ -5261,6 +5465,12 @@
 		"price": 17,
 		"category": "Meals",
 		"defname": "MealNutrientPaste"
+	},
+	{
+		"abr": "obelisk",
+		"price": 775,
+		"category": "Art",
+		"defname": "VFE_Obelisk"
 	},
 	{
 		"abr": "obsidianblocks",
@@ -5545,6 +5755,12 @@
 		"defname": "Meat_AA_OvergrownColossus"
 	},
 	{
+		"abr": "owlman",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Alien_Owl"
+	},
+	{
 		"abr": "p90",
 		"price": 733,
 		"category": "Ranged weapons",
@@ -5653,6 +5869,12 @@
 		"defname": "Apparel_Parka"
 	},
 	{
+		"abr": "parrotman",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Alien_Parrot"
+	},
+	{
 		"abr": "patchleather",
 		"price": 2,
 		"category": "Leathers",
@@ -5707,6 +5929,12 @@
 		"defname": "AEXP_EggPenguinFertilized"
 	},
 	{
+		"abr": "penguinman",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Alien_Penguin"
+	},
+	{
 		"abr": "penoxycyline",
 		"price": 30,
 		"category": "Drugs",
@@ -5753,6 +5981,12 @@
 		"price": 3,
 		"category": "Leathers",
 		"defname": "Leather_Pig"
+	},
+	{
+		"abr": "pillar",
+		"price": 450,
+		"category": "Art",
+		"defname": "VFE_Pillar"
 	},
 	{
 		"abr": "pinkblobfish",
@@ -5821,10 +6055,40 @@
 		"defname": "PlatybelodonTusk"
 	},
 	{
+		"abr": "platypus",
+		"price": 200,
+		"category": "Animal",
+		"defname": "AEXP_Platypus"
+	},
+	{
 		"abr": "platypusegg(fert.)",
 		"price": 33,
 		"category": "Eggs (fert.)",
 		"defname": "ACPEggPlatypusFertilized"
+	},
+	{
+		"abr": "platypusegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AEXP_EggPlatypusFertilized"
+	},
+	{
+		"abr": "platypusleather",
+		"price": 15,
+		"category": "Leathers",
+		"defname": "AEXP_Leather_Platypus"
+	},
+	{
+		"abr": "platypusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_Platypus"
+	},
+	{
+		"abr": "plinth",
+		"price": 442,
+		"category": "Art",
+		"defname": "VFE_Plinth"
 	},
 	{
 		"abr": "pokertable",
@@ -5881,6 +6145,12 @@
 		"defname": "RawPotatoes"
 	},
 	{
+		"abr": "pottery",
+		"price": 143,
+		"category": "Art",
+		"defname": "VFE_Pottery"
+	},
+	{
 		"abr": "powerarmor",
 		"price": 3850,
 		"category": "Apparel",
@@ -5897,6 +6167,12 @@
 		"price": 2000,
 		"category": "Artificial",
 		"defname": "PowerClaw"
+	},
+	{
+		"abr": "powerthirst",
+		"price": 155,
+		"category": "Drugs",
+		"defname": "PowerThirst"
 	},
 	{
 		"abr": "pridegaussrifle",
@@ -6367,6 +6643,12 @@
 		"defname": "Leather_Redhide"
 	},
 	{
+		"abr": "relief",
+		"price": 1983,
+		"category": "Art",
+		"defname": "VFE_Relief"
+	},
+	{
 		"abr": "repairshelf",
 		"price": 575,
 		"category": "Furniture",
@@ -6521,6 +6803,36 @@
 		"price": 1617,
 		"category": "Furniture",
 		"defname": "Table_Royal3x3c"
+	},
+	{
+		"abr": "royalthrumbo",
+		"price": 13333,
+		"category": "Animal",
+		"defname": "OG_ThrumboRoyalM"
+	},
+	{
+		"abr": "royalthrumbomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_OG_ThrumboRoyalM"
+	},
+	{
+		"abr": "royalthrumbomilk",
+		"price": 333,
+		"category": "Animal products",
+		"defname": "OG_ThrumboRoyalMilk"
+	},
+	{
+		"abr": "royalthrumbowool",
+		"price": 30,
+		"category": "Textiles",
+		"defname": "OG_ThrumboRoyalWool"
+	},
+	{
+		"abr": "royalthrumbofur",
+		"price": 23,
+		"category": "Leathers",
+		"defname": "OG_ThrumboRoyalLeather"
 	},
 	{
 		"abr": "sacredwhitefox",
@@ -6955,6 +7267,12 @@
 		"defname": "Bin_Small"
 	},
 	{
+		"abr": "smallrug",
+		"price": 184,
+		"category": "Art",
+		"defname": "VFE_RugSmall"
+	},
+	{
 		"abr": "smallsculpture",
 		"price": 275,
 		"category": "Art",
@@ -6965,6 +7283,12 @@
 		"price": 3983,
 		"category": "Security",
 		"defname": "VFES_ShieldGenerator_Small"
+	},
+	{
+		"abr": "smallstatue",
+		"price": 275,
+		"category": "Art",
+		"defname": "VFE_StatueSmall"
 	},
 	{
 		"abr": "smilodon",
@@ -7013,6 +7337,12 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Titanoboa"
+	},
+	{
+		"abr": "sniff",
+		"price": 35,
+		"category": "Drugs",
+		"defname": "Sniff"
 	},
 	{
 		"abr": "sniperrifle",
@@ -7471,6 +7801,24 @@
 		"defname": "Meat_AA_TeratogenicOriginator"
 	},
 	{
+		"abr": "teshi",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "Teshi"
+	},
+	{
+		"abr": "teshiegg(fert.)",
+		"price": 208,
+		"category": "Eggs (fert.)",
+		"defname": "EggTeshiFertilized"
+	},
+	{
+		"abr": "teshimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Teshi"
+	},
+	{
 		"abr": "tetraslug",
 		"price": 6667,
 		"category": "Animal",
@@ -7841,6 +8189,12 @@
 		"price": 358,
 		"category": "Misc",
 		"defname": "VitalsMonitor"
+	},
+	{
+		"abr": "vultureman",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Alien_Vulture"
 	},
 	{
 		"abr": "wa2000",
@@ -8279,361 +8633,7 @@
 		"price": 1667,
 		"category": "Items",
 		"defname": "ZygolophodonTusk"
-	},
-	{
-		"abr": "antisick",
-		"price": 1667,
-		"category": "Drugs",
-		"defname": "Antisick"
-	},
-	{
-		"abr": "beamers",
-		"price": 250,
-		"category": "Drugs",
-		"defname": "Beamers"
-	},
-	{
-		"abr": "blotter",
-		"price": 558,
-		"category": "Drugs",
-		"defname": "Blotter"
-	},
-	{
-		"abr": "frog",
-		"price": 5000,
-		"category": "Animal",
-		"defname": "Alien_Frog"
-	},
-	{
-		"abr": "frogleather",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "Leather_frog"
-	},
-	{
-		"abr": "frogmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Alien_Frog"
-	},
-	{
-		"abr": "frogleafjoint",
-		"price": 18,
-		"category": "Drugs",
-		"defname": "FrogleafJoint"
-	},
-	{
-		"abr": "frogleafleaves",
-		"price": 3,
-		"category": "Plant matter",
-		"defname": "FrogleafLeaves"
-	},
-	{
-		"abr": "godsblood",
-		"price": 867,
-		"category": "Drugs",
-		"defname": "GodsBlood"
-	},
-	{
-		"abr": "powerthirst",
-		"price": 155,
-		"category": "Drugs",
-		"defname": "PowerThirst"
-	},
-	{
-		"abr": "sniff",
-		"price": 35,
-		"category": "Drugs",
-		"defname": "Sniff"
-	},
-	{
-		"abr": "archotechsculpture",
-		"price": 5000,
-		"category": "Art",
-		"defname": "VFE_ArchotechSculpture"
-	},
-	{
-		"abr": "bionicbeak",
-		"price": 1717,
-		"category": "Artificial",
-		"defname": "BionicBeak"
-	},
-	{
-		"abr": "boombat",
-		"price": 250,
-		"category": "Animal",
-		"defname": "AEXP_Boombat"
-	},
-	{
-		"abr": "boombatmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AEXP_Boombat"
-	},
-	{
-		"abr": "carving",
-		"price": 342,
-		"category": "Art",
-		"defname": "VFE_Carving"
-	},
-	{
-		"abr": "cassowaryman",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "Alien_Cassowary"
-	},
-	{
-		"abr": "chickenman",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "Alien_Chicken"
-	},
-	{
-		"abr": "dodoman",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "Alien_Dodo"
-	},
-	{
-		"abr": "femaleroyalthrumbohorn",
-		"price": 2667,
-		"category": "Items",
-		"defname": "OG_ThrumboRoyalHornF"
-	},
-	{
-		"abr": "ferian",
-		"price": 3667,
-		"category": "Animal",
-		"defname": "AFerian"
-	},
-	{
-		"abr": "ferianleather",
-		"price": 8,
-		"category": "Leathers",
-		"defname": "Leather_Ferian"
-	},
-	{
-		"abr": "ferianmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AFerian"
-	},
-	{
-		"abr": "grandrug",
-		"price": 883,
-		"category": "Art",
-		"defname": "VFE_RugGrand"
-	},
-	{
-		"abr": "grandstatue",
-		"price": 1125,
-		"category": "Art",
-		"defname": "VFE_StatueGrand"
-	},
-	{
-		"abr": "hologram",
-		"price": 542,
-		"category": "Art",
-		"defname": "VFE_HologramOn"
-	},
-	{
-		"abr": "kangaroo",
-		"price": 417,
-		"category": "Animal",
-		"defname": "AEXP_Kangaroo"
-	},
-	{
-		"abr": "kangaroomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AEXP_Kangaroo"
-	},
-	{
-		"abr": "kija",
-		"price": 1333,
-		"category": "Animal",
-		"defname": "Alien_Kija"
-	},
-	{
-		"abr": "kijameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Alien_Kija"
-	},
-	{
-		"abr": "koala",
-		"price": 125,
-		"category": "Animal",
-		"defname": "AEXP_Koala"
-	},
-	{
-		"abr": "koalameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AEXP_Koala"
-	},
-	{
-		"abr": "largerug",
-		"price": 492,
-		"category": "Art",
-		"defname": "VFE_RugLarge"
-	},
-	{
-		"abr": "largestatue",
-		"price": 583,
-		"category": "Art",
-		"defname": "VFE_StatueLarge"
-	},
-	{
-		"abr": "maleroyalthrumbohorn",
-		"price": 2667,
-		"category": "Items",
-		"defname": "OG_ThrumboRoyalHornM"
-	},
-	{
-		"abr": "monument",
-		"price": 2100,
-		"category": "Art",
-		"defname": "VFE_Monument"
-	},
-	{
-		"abr": "obelisk",
-		"price": 775,
-		"category": "Art",
-		"defname": "VFE_Obelisk"
-	},
-	{
-		"abr": "owlman",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "Alien_Owl"
-	},
-	{
-		"abr": "parrotman",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "Alien_Parrot"
-	},
-	{
-		"abr": "penguinman",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "Alien_Penguin"
-	},
-	{
-		"abr": "pillar",
-		"price": 450,
-		"category": "Art",
-		"defname": "VFE_Pillar"
-	},
-	{
-		"abr": "platypus",
-		"price": 200,
-		"category": "Animal",
-		"defname": "AEXP_Platypus"
-	},
-	{
-		"abr": "platypusegg(fert.)",
-		"price": 15,
-		"category": "Eggs (fert.)",
-		"defname": "AEXP_EggPlatypusFertilized"
-	},
-	{
-		"abr": "platypusleather",
-		"price": 15,
-		"category": "Leathers",
-		"defname": "AEXP_Leather_Platypus"
-	},
-	{
-		"abr": "platypusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AEXP_Platypus"
-	},
-	{
-		"abr": "plinth",
-		"price": 442,
-		"category": "Art",
-		"defname": "VFE_Plinth"
-	},
-	{
-		"abr": "pottery",
-		"price": 143,
-		"category": "Art",
-		"defname": "VFE_Pottery"
-	},
-	{
-		"abr": "relief",
-		"price": 1983,
-		"category": "Art",
-		"defname": "VFE_Relief"
-	},
-	{
-		"abr": "royalthrumbo",
-		"price": 13333,
-		"category": "Animal",
-		"defname": "OG_ThrumboRoyalM"
-	},
-	{
-		"abr": "royalthrumbomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_OG_ThrumboRoyalM"
-	},
-	{
-		"abr": "royalthrumbomilk",
-		"price": 333,
-		"category": "Animal products",
-		"defname": "OG_ThrumboRoyalMilk"
-	},
-	{
-		"abr": "royalthrumbowool",
-		"price": 30,
-		"category": "Textiles",
-		"defname": "OG_ThrumboRoyalWool"
-	},
-	{
-		"abr": "royalthrumbofur",
-		"price": 23,
-		"category": "Leathers",
-		"defname": "OG_ThrumboRoyalLeather"
-	},
-	{
-		"abr": "smallrug",
-		"price": 184,
-		"category": "Art",
-		"defname": "VFE_RugSmall"
-	},
-	{
-		"abr": "smallstatue",
-		"price": 275,
-		"category": "Art",
-		"defname": "VFE_StatueSmall"
-	},
-	{
-		"abr": "teshi",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "Teshi"
-	},
-	{
-		"abr": "teshiegg(fert.)",
-		"price": 208,
-		"category": "Eggs (fert.)",
-		"defname": "EggTeshiFertilized"
-	},
-	{
-		"abr": "teshimeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Teshi"
-	},
-	{
-		"abr": "vultureman",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "Alien_Vulture"
-	},
+	}
 	],
-	"total": 1563
+	"total": 1439
 }
