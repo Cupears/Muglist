@@ -1009,16 +1009,16 @@
 		"defname": "BionicEye"
 	},
 	{
-		"abr": "bionicfennextail",
-		"price": 2500,
-		"category": "Artificial",
-		"defname": "BionicFennexTail"
-	},
-	{
 		"abr": "bionicferrextail",
 		"price": 2500,
 		"category": "Artificial",
 		"defname": "BionicFerrexTail"
+	},
+	{
+		"abr": "bionicfoxtail",
+		"price": 2500,
+		"category": "Artificial",
+		"defname": "BionicFennexTail"
 	},
 	{
 		"abr": "bionicgnolltail",
@@ -2029,6 +2029,12 @@
 		"defname": "AB_BlocksCragstone"
 	},
 	{
+		"abr": "crashedbattery",
+		"price": 270,
+		"category": "Power",
+		"defname": "Battery_CrashLanded"
+	},
+	{
 		"abr": "crepuscularbeetle",
 		"price": 1000,
 		"category": "Animal",
@@ -2665,7 +2671,7 @@
 		"defname": "Apparel_Duster"
 	},
 	{
-		"abr": "dvlsaboteur",
+		"abr": "dvl-10saboteur",
 		"price": 850,
 		"category": "Ranged weapons",
 		"defname": "CEC_DVLTen"
@@ -3245,6 +3251,12 @@
 		"price": 3333,
 		"category": "Animal",
 		"defname": "Alien_Frijjid"
+	},
+	{
+		"abr": "frijjidleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_frij"
 	},
 	{
 		"abr": "frijjidmeat",
@@ -6187,6 +6199,18 @@
 		"defname": "Meat_AEXP_Gorilla"
 	},
 	{
+		"abr": "prisonerpants",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "Apparel_Pants_Prisoner"
+	},
+	{
+		"abr": "prisonershirt",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "Apparel_BasicShirt_Prisoner"
+	},
+	{
 		"abr": "procoptodon",
 		"price": 1833,
 		"category": "Animal",
@@ -7340,7 +7364,7 @@
 	},
 	{
 		"abr": "sniff",
-		"price": 35,
+		"price": 68,
 		"category": "Drugs",
 		"defname": "Sniff"
 	},
@@ -8587,12 +8611,6 @@
 		"defname": "Meat_YorkshireTerrier"
 	},
 	{
-		"abr": "youthserum",
-		"price": 2333,
-		"category": "Items",
-		"defname": "MechSerumYouth"
-	},
-	{
 		"abr": "yutyrannus",
 		"price": 4500,
 		"category": "Animal",
@@ -8635,5 +8653,5 @@
 		"defname": "ZygolophodonTusk"
 	}
 	],
-	"total": 1439
+	"total": 1442
 }
